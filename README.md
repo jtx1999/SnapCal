@@ -35,8 +35,8 @@ We also successfully create corresponding event in user’s google calendar with
 
 
 ## What's next for SnapCal
--Improve information detecting accuracy especially location matching to enlarge the scope of usage for the app from Cornell Campus to any valid location.
--Implement actual app interface for SnapCal in order to provide valid using channel for user
+ - Improve information detecting accuracy especially location matching to enlarge the scope of usage for the app from Cornell Campus to any valid location.
+ - Implement actual app interface for SnapCal in order to provide valid using channel for user
 
 ## iOS app mock-up
 
